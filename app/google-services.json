@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634719307078",
+    "firebase_url": "https://foodcraze-b91b0.firebaseio.com",
+    "project_id": "foodcraze-b91b0",
+    "storage_bucket": "foodcraze-b91b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634719307078:android:a26979d1996e33ee249147",
+        "android_client_info": {
+          "package_name": "com.example.foodcraze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634719307078-nl1jvh5dg36apc9lsnnpmr23ni1uohd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodcraze",
+            "certificate_hash": "003c3322f201e0c227f7353bd7e022cf0ae04a2c"
+          }
+        },
+        {
+          "client_id": "634719307078-n91nijlih9m8q5jmokmjb0cdr2q6p30h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRKCzp4ONHJQRL8-oG07792O5vefiPGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634719307078-n91nijlih9m8q5jmokmjb0cdr2q6p30h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
